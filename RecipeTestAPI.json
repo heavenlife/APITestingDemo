@@ -4,19 +4,19 @@
     "id": 1,
     "recipename": "Spaghetti Bolognese",
     "recipedetail": "A classic Italian pasta dish with a rich tomato and meat sauce.",
-    "image": "images\smosa.png"
+    "image": "https://heavenlife.github.io/APITestingDemo/images/smosa.png"
   },
   {
     "id": 2,
     "recipename": "Chicken Curry",
     "recipedetail": "A flavorful Indian curry made with tender chicken and aromatic spices.",
-    "image": "images\smosa.png"
+    "image": "https://heavenlife.github.io/APITestingDemo/images/smosa.png"
   },
   {
     "id": 3,
     "recipename": "Greek Salad",
     "recipedetail": "A refreshing salad with tomatoes, cucumbers, olives, and feta cheese.",
-    "image": "images\smosa.png"
+    "image": "https://heavenlife.github.io/APITestingDemo/images/smosa.png"
   }
  ]
 }
