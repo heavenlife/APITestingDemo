@@ -20,6 +20,27 @@
     "Tag": "Dinner",
     "recipedetail": "A refreshing salad with tomatoes, cucumbers, olives, and feta cheese.",
     "image": "https://heavenlife.github.io/APITestingDemo/images/smosa.png"
-  }
+  },
+  {
+    "id": 4,
+    "recipename": "Greek Sandwich",
+    "Tag": "Dinner",
+    "recipedetail": "A refreshing salad with tomatoes, cucumbers, olives, and feta cheese.",
+    "image": "https://heavenlife.github.io/APITestingDemo/images/smosa.png"
+  },
+  {
+    "id": 5,
+    "recipename": "Veg Pulao",
+    "Tag": "Lunch",
+    "recipedetail": "A refreshing salad with tomatoes, cucumbers, olives, and feta cheese.",
+    "image": "https://heavenlife.github.io/APITestingDemo/images/smosa.png"
+  },
+  {
+    "id": 6,
+    "recipename": "Pratha",
+    "Tag": "Breakfast",
+    "recipedetail": "A refreshing salad with tomatoes, cucumbers, olives, and feta cheese.",
+    "image": "https://heavenlife.github.io/APITestingDemo/images/smosa.png"
+  }       
  ]
 }
