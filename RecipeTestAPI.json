@@ -69,7 +69,10 @@
     "id": 9,
     "recipename": "Pratha",
     "Tag": "Breakfast",
-    "recipedetail": "A refreshing salad with tomatoes, cucumbers, olives, and feta cheese.",
+    "recipedetail": "ઘટકો:
+
+- 1 કપ રોલ્ડ ઓટ્સ
+- 1/2 કપ બદામ (બદામ, અખરોટ વગેરે), સમારેલી",
     "image": "https://heavenlife.github.io/APITestingDemo/images/smosa.png",
     "time": "20 Mins"
   },
