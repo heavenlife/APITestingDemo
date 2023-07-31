@@ -85,11 +85,38 @@
   {
     "id": 10,
     "recipename": "Pratha",
-    "Tag": "Breakfast",
+    "Tag": "Dinner",
     "recipedetail": "A refreshing salad with tomatoes, cucumbers, olives, and feta cheese.",
     "image": "https://heavenlife.github.io/APITestingDemo/images/smosa.png",
     "time": "20 Mins",
     "isFavorated": true  
-  }        
+  },
+  {
+    "id": 11,
+    "recipename": "Palak Pratha",
+    "Tag": "Lunch",
+    "recipedetail": "A refreshing salad with tomatoes, cucumbers, olives, and feta cheese.",
+    "image": "https://heavenlife.github.io/APITestingDemo/images/smosa.png",
+    "time": "20 Mins",
+    "isFavorated": false  
+  },  
+ {
+    "id": 12,
+    "recipename": "veg Pratha",
+    "Tag": "Lunch",
+    "recipedetail": "A refreshing salad with tomatoes, cucumbers, olives, and feta cheese.",
+    "image": "https://heavenlife.github.io/APITestingDemo/images/smosa.png",
+    "time": "20 Mins",
+    "isFavorated": false  
+  },
+  {
+    "id": 13,
+    "recipename": "Pure veg Pratha",
+    "Tag": "Dinner",
+    "recipedetail": "A refreshing salad with tomatoes, cucumbers, olives, and feta cheese.",
+    "image": "https://heavenlife.github.io/APITestingDemo/images/smosa.png",
+    "time": "20 Mins",
+    "isFavorated": false  
+  }
  ]
 }
