@@ -949,7 +949,7 @@
     "recipeIngredient" : "122",  
     "image": "https://heavenlife.github.io/APITestingDemo/images/smosa.png",
     "time": "45 Mins",
-    "isFavorated": true  
+    "isFavorated": false  
   }, 
   {
     "id": 96,
@@ -959,7 +959,7 @@
     "image": "https://heavenlife.github.io/APITestingDemo/images/smosa.png",
        "recipeIngredient" : "122",  
     "time": "45 Mins",
-    "isFavorated": true  
+    "isFavorated": false  
   }, 
   {
     "id": 97,
@@ -1009,7 +1009,7 @@
       "recipeIngredient" : "122",  
     "image": "https://heavenlife.github.io/APITestingDemo/images/smosa.png",
     "time": "45 Mins",
-    "isFavorated": true  
+    "isFavorated": false  
   }, 
   {
     "id": 102,
